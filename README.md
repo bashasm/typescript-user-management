@@ -1,4 +1,4 @@
-# typescript-user-management
+# User Management App developed in typescript
 User Management with Typescript, display the form to add the user and the list of users
 
 # Install the dependencies
